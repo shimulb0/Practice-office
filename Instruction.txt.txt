@@ -1,3 +1,0 @@
-=> git add .
-=> git commit -m "Instruction file added"
-=> git push
